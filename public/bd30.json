@@ -134,7 +134,7 @@
   {
     "archivo_musica": "Albums/198274538_1.flac",
     "descripcion": "198274538",
-    "imagen": "Albums/198274538.jpg",
+    "imagen": "Albums/198274538.png",
     "genero": "Alternative",
     "titulo": "Crystal Ball",
     "artista": "Keane",
@@ -145,7 +145,7 @@
   {
     "archivo_musica": "Albums/198274538_2.flac",
     "descripcion": "198274538",
-    "imagen": "Albums/198274538.jpg",
+    "imagen": "Albums/198274538.png",
     "genero": "Alternative",
     "titulo": "Maybe I Can Change",
     "artista": "Keane",
@@ -156,7 +156,7 @@
   {
     "archivo_musica": "Albums/198274538_3.flac",
     "descripcion": "198274538",
-    "imagen": "Albums/198274538.jpg",
+    "imagen": "Albums/198274538.png",
     "genero": "Alternative",
     "titulo": "The Iron Sea (Magic Shop version)",
     "artista": "Keane",
