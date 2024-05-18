@@ -130,5 +130,38 @@
     "album": "Zankyo Reference",
     "numero_de_pista": "11/11",
     "Año": "2011"
+  },
+  {
+    "archivo_musica": "Albums/198274538_1.flac",
+    "descripcion": "198274538",
+    "imagen": "Albums/198274538.jpg",
+    "genero": "Alternative",
+    "titulo": "Crystal Ball",
+    "artista": "Keane",
+    "album": "Crystal Ball",
+    "numero_de_pista": "1/3",
+    "Año": "2006"
+  },
+  {
+    "archivo_musica": "Albums/198274538_2.flac",
+    "descripcion": "198274538",
+    "imagen": "Albums/198274538.jpg",
+    "genero": "Alternative",
+    "titulo": "Maybe I Can Change",
+    "artista": "Keane",
+    "album": "Crystal Ball",
+    "numero_de_pista": "2/3",
+    "Año": "2006"
+  },
+  {
+    "archivo_musica": "Albums/198274538_3.flac",
+    "descripcion": "198274538",
+    "imagen": "Albums/198274538.jpg",
+    "genero": "Alternative",
+    "titulo": "The Iron Sea (Magic Shop version)",
+    "artista": "Keane",
+    "album": "Crystal Ball",
+    "numero_de_pista": "3/3",
+    "Año": "2006"
   }
 ]
