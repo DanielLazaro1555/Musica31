@@ -317,5 +317,38 @@
     "album": "Tarzán (Soundtrack Original) (En español)",
     "numero_de_pista": "14/14",
     "Año": "1999"
+  },
+  {
+    "archivo_musica": "Albums/198274540_1.flac",
+    "descripcion": "198274540",
+    "imagen": "Albums/198274540.jpg",
+    "genero": "Rock/General",
+    "titulo": "Nothing In My Way",
+    "artista": "Keane",
+    "album": "Nothing In My Way",
+    "numero_de_pista": "1/3",
+    "Año": "2006"
+  },
+  {
+    "archivo_musica": "Albums/198274540_2.flac",
+    "descripcion": "198274540",
+    "imagen": "Albums/198274540.jpg",
+    "genero": "Rock/General",
+    "titulo": "Thin Air",
+    "artista": "Keane",
+    "album": "Nothing In My Way",
+    "numero_de_pista": "2/3",
+    "Año": "2006"
+  },
+  {
+    "archivo_musica": "Albums/198274540_3.flac",
+    "descripcion": "198274540",
+    "imagen": "Albums/198274540.jpg",
+    "genero": "Pop/General",
+    "titulo": "Tyderian",
+    "artista": "Keane",
+    "album": "Nothing In My Way",
+    "numero_de_pista": "3/3",
+    "Año": "2006"
   }
 ]
