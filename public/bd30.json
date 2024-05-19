@@ -321,7 +321,7 @@
   {
     "archivo_musica": "Albums/198274540_1.flac",
     "descripcion": "198274540",
-    "imagen": "Albums/198274540.jpg",
+    "imagen": "Albums/198274540.png",
     "genero": "Rock/General",
     "titulo": "Nothing In My Way",
     "artista": "Keane",
@@ -332,7 +332,7 @@
   {
     "archivo_musica": "Albums/198274540_2.flac",
     "descripcion": "198274540",
-    "imagen": "Albums/198274540.jpg",
+    "imagen": "Albums/198274540.png",
     "genero": "Rock/General",
     "titulo": "Thin Air",
     "artista": "Keane",
@@ -343,7 +343,7 @@
   {
     "archivo_musica": "Albums/198274540_3.flac",
     "descripcion": "198274540",
-    "imagen": "Albums/198274540.jpg",
+    "imagen": "Albums/198274540.png",
     "genero": "Pop/General",
     "titulo": "Tyderian",
     "artista": "Keane",
