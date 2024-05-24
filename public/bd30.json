@@ -1186,5 +1186,16 @@
     "album": "Celebration (Deluxe Video Edition)",
     "numero_de_pista": "38/38",
     "Año": "2009"
+  },
+  {
+    "archivo_musica": "Albums/198274546_1.flac",
+    "descripcion": "198274546",
+    "imagen": "Albums/198274546.jpg",
+    "genero": "Alternative Rock",
+    "titulo": "Legends Never Die",
+    "artista": "League of Legends & Against the Current",
+    "album": "Legends Never Die",
+    "numero_de_pista": "1/1",
+    "Año": "2017"
   }
 ]
