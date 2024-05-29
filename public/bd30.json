@@ -1208,5 +1208,16 @@
     "album": "Universe",
     "numero_de_pista": "1/1",
     "Año": "2018"
+  },
+  {
+    "archivo_musica": "Albums/198274548_1.flac",
+    "descripcion": "198274548",
+    "imagen": "Albums/198274548.png",
+    "genero": "Soundtracks",
+    "titulo": "Ashes (from 'Deadpool 2' Motion Picture Soundtrack)",
+    "artista": "Celine Dion",
+    "album": "Ashes (from 'Deadpool 2' Motion Picture Soundtrack)",
+    "numero_de_pista": "1/1",
+    "Año": "2018"
   }
 ]
